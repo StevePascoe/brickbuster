@@ -12,6 +12,8 @@
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":2,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":1,},
     {"id":{"name":"snd_Click","path":"sounds/snd_Click/snd_Click.yy",},"order":3,},
+    {"id":{"name":"spr_dragon","path":"sprites/spr_dragon/spr_dragon.yy",},"order":5,},
+    {"id":{"name":"obj_dragon","path":"objects/obj_dragon/obj_dragon.yy",},"order":5,},
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":0,},
     {"id":{"name":"obj_powers","path":"objects/obj_powers/obj_powers.yy",},"order":4,},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},"order":2,},
